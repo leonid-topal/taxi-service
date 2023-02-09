@@ -28,7 +28,7 @@ Project based on 3-layer architecture:
 - CSS<br/>
 ---
  ## Setup
-1. Clone the repo [link](https://github.com/leonid-topal/taxi-service.git)
+1. Clone the repo: [link](https://github.com/leonid-topal/taxi-service.git)
 2. Install MySQL
 3. Configure Apache Tomcat
 4. Copy and run SQL script src/main/resources/init_db.sql to creating a schema and tables for the project
